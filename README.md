@@ -42,6 +42,11 @@ This repository contains several small projects developed to explore various pro
 - **Description**: Provides a comprehensive calculator interface capable of handling basic arithmetic and more advanced calculations.
 - **File**: `aioCalculator.cpp`
 
+### Report Card Generator
+
+- **Description**: Provide a Report card of a student with grade in goof manner.
+- **File**: `ReportCard.c`
+
 ## Usage
 
 - Each project is self-contained and can be compiled and run independently using a C++ compiler.
