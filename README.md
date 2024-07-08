@@ -11,6 +11,7 @@ Welcome to the Micro-Projects repository, showcasing a collection of small yet i
    - [Casino Game](#casino-game)
    - [Rock, Paper, Scissors Game](#rock-paper-scissors-game)
    - [All-in-One Calculator](#all-in-one-calculator)
+   - [Report Card Generator](#all-in-one-calculator)
 3. [Usage](#usage)
 4. [License](#license)
 5. [Contributions](#contributions)
