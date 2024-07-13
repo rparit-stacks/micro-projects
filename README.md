@@ -12,6 +12,7 @@ Welcome to the Micro-Projects repository, showcasing a collection of small yet i
    - [Rock, Paper, Scissors Game](#rock-paper-scissors-game)
    - [All-in-One Calculator](#all-in-one-calculator)
    - [Report Card Generator](#all-in-one-calculator)
+   - [Gully Cricket](#all-in-one-calculator)
 3. [Usage](#usage)
 4. [License](#license)
 5. [Contributions](#contributions)
@@ -47,6 +48,11 @@ This repository contains several small projects developed to explore various pro
 
 - **Description**: Provide a Report card of a student with grade in good manner.
 - **File**: `ReportCard.c`
+
+### GullyCricket
+
+- **Description**: Provide a Report card of a student with grade in good manner.
+- **File**: `gullyCricket.cpp`
 
 ## Usage
 
