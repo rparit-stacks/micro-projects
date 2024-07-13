@@ -51,7 +51,7 @@ This repository contains several small projects developed to explore various pro
 
 ### GullyCricket
 
-- **Description**: Provide a Report card of a student with grade in good manner.
+- **Description**: Two Teams are player random
 - **File**: `gullyCricket.cpp`
 
 ## Usage
